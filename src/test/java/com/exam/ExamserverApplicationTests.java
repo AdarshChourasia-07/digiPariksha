@@ -8,7 +8,7 @@ class ExamserverApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("testing main....");
+		System.out.println("testing main..");
 	}
 
 }
